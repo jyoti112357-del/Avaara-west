@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Avaara West</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: black;
+      letter-spacing: 2px;
+    }
+    p {
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <h1>AVAARA WEST</h1>
+  <p>Modern • Chic • Street Fashion</p>
+  <p>Coming Soon</p>
+</body>
+</html>
